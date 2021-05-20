@@ -1,0 +1,6 @@
+/home/piersimonip/HHD1/DataBackupExperiments/DKFZ7_He/Empty_0001_000.dat
+/home/piersimonip/HHD1/DataBackupExperiments/DKFZ7_He/CalibW_0b_0005_000.dat
+/home/piersimonip/HHD1/DataBackupExperiments/DKFZ7_He/CalibW_1B_0008_000.dat
+/home/piersimonip/HHD1/DataBackupExperiments/DKFZ7_He/CalibW_2B_0011_000.dat
+/home/piersimonip/HHD1/DataBackupExperiments/DKFZ7_He/CalibW_3B_0014_000.dat
+/home/piersimonip/HHD1/DataBackupExperiments/DKFZ7_He/CalibW_4B_0017_000.dat

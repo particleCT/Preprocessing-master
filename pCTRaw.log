@@ -1,0 +1,8 @@
+File run header found for the pCT raw data file: /home/piersimonip/HHD1/DataBackupExperiments/DKFZ8_P/Meatphan2_0046_360.dat
+Run Number: 92
+Input data file run header found.  Run number = 92
+The run start time is Wed Feb 19 04:07:08 2020.
+The input data file is assumed to be real data from the Phase-II pCT scanner.
+Time tags are included in the data stream.
+Event builder FPGA firmware version number = 65
+Projection angle from the run header = 360 degrees.
